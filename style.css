@@ -56,6 +56,7 @@
 .right-container{
     background: linear-gradient(-45deg,#3877FF, #262525 70%);
     width: 30%;
+    border:none
 
 }
 
